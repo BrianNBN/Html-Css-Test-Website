@@ -1,0 +1,25 @@
+#para_1{
+    height: 120px;
+    background:turquoise;
+    font-size: 25px;
+}
+
+#para_2{
+    height: 120px;
+    background: tomato;
+    font-size: 25px;
+    clear: right;
+    margin-top: 20px;
+}
+
+#img_1{
+    float: right;
+}
+
+#img_2{
+    float: right;
+}
+
+.clearfix {
+    overflow: auto;
+  }
